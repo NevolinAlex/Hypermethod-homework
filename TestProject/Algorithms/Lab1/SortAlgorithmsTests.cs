@@ -1,14 +1,10 @@
 ﻿using System;
-using System.CodeDom;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
 using NUnit.Framework;
-using NUnit.Framework.Internal;
 using QuickSort;
 using TreeSort.Entities;
 
-namespace TestProject
+namespace TestProject.Algorithms.Lab1
 {
 	[TestFixture]
 	public class SortAlgorithmsTests

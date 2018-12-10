@@ -52,13 +52,18 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SortAlgorithmsTests.cs" />
+    <Compile Include="Algorithms\Lab1\SortAlgorithmsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Algorithms\Lab3\DijkstraTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GraphAlgorithm\GraphAlgorithm.csproj">
+      <Project>{cc0ede51-868a-4949-9410-9204afc14a10}</Project>
+      <Name>GraphAlgorithm</Name>
+    </ProjectReference>
     <ProjectReference Include="..\QuickSort\QuickSort.csproj">
       <Project>{596d5831-9324-4310-af48-b92f614c5019}</Project>
       <Name>QuickSort</Name>
