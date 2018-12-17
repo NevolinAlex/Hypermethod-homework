@@ -40,6 +40,7 @@ bool operator!= (const DateExtension &d1, const DateExtension &d2)
 		return true;
 	return false;
 }
+
 const std::string DateExtension::months[12] = { "January", "February", "March",
 					   "April", "May", "June",
 					   "July", "August", "September",
@@ -117,6 +118,7 @@ bool DateExtension::isLeap(int y)
 
 	return false;
 }
+
 int DateExtension::GetDiffernce(DateExtension date2) {
 
 	int monthDays[12] = { 31, 28, 31, 30, 31, 30,
