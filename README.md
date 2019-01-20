@@ -19,7 +19,8 @@
 	1. Лаб.работа 1. Классовая надстройка над базовым типом C++(обертка над датой) - ../SolutionFolder/Development/Lab1. Boxing/DateBoxing
 		Тесты к соответствующему проекту находятся в ../SolutionFolder/Development/Lab1. Boxing/BoxingTest
 		
-	2. Лаб.работа 2. Иерархия классов чисел-серверов на С# - НЕ СДЕЛАНО
+	2. Лаб.работа 2. Классовая обертка для нечетких чисел С# - ../Hypermethod-homework/Development/ Lab2.Fuzzy Numbers/FuzzyNumbers
+		Тесты: ../Hypermethod-homework/TestProject/Development/Lab2/
 	
 	3. Лаб.работа 3. Делегаты, события, интерфейсы и рекурсия в С# - ../Hypermethod-homework/Development/ Lab3.Delegates. Events. Interfaces/DelegatesEventsInterfaces
 		Тесты:../Hypermethod-homework/TestProject/Development/Lab3

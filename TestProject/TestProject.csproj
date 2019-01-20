@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms\Lab1\SortAlgorithmsTests.cs" />
+    <Compile Include="Development\Lab2\FuzzyNumbersTest.cs" />
     <Compile Include="Development\Lab3\IntegrateTests.cs" />
     <Compile Include="Development\Lab3\AlgorythmTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,6 +66,10 @@
     <ProjectReference Include="..\DelegatesEventsInterfaces\DelegatesEventsInterfaces.csproj">
       <Project>{1d906080-0733-4bf8-a258-8ab88b1970d0}</Project>
       <Name>DelegatesEventsInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FuzzyNumbers\FuzzyNumbers.csproj">
+      <Project>{57F6C7F8-B349-4AE3-8900-03DCEDB6BF34}</Project>
+      <Name>FuzzyNumbers</Name>
     </ProjectReference>
     <ProjectReference Include="..\GraphAlgorithm\GraphAlgorithm.csproj">
       <Project>{cc0ede51-868a-4949-9410-9204afc14a10}</Project>
