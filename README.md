@@ -24,5 +24,5 @@
 	3. Лаб.работа 3. Делегаты, события, интерфейсы и рекурсия в С# - ../Hypermethod-homework/Development/ Lab3.Delegates. Events. Interfaces/DelegatesEventsInterfaces
 		Тесты:../Hypermethod-homework/TestProject/Development/Lab3
 		
-	4. Лаб.работа 4. Иерархия геометрических примитивов с использованием GraphicsLib и WinForm	- НЕ СДЕЛАНО
+	4. Лаб.работа 4. Иерархия геометрических примитивов с использованием GraphicsLib и WinForm	- ../Hypermethod-homework/Development/ Lab4.Graphics/Graphics
 

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Figure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rectangle>
+    <Color Web="Red" />
+    <X>10</X>
+    <Y>10</Y>
+    <Width>190</Width>
+    <Height>140</Height>
+  </Rectangle>
+  <Line>
+    <Color Web="Red" />
+    <X1>200</X1>
+    <Y1>50</Y1>
+    <X2>200</X2>
+    <Y2>150</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>200</X1>
+    <Y1>50</Y1>
+    <X2>250</X2>
+    <Y2>50</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>250</X1>
+    <Y1>50</Y1>
+    <X2>270</X2>
+    <Y2>100</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>270</X1>
+    <Y1>100</Y1>
+    <X2>310</X2>
+    <Y2>110</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>310</X1>
+    <Y1>110</Y1>
+    <X2>310</X2>
+    <Y2>150</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>200</X1>
+    <Y1>150</Y1>
+    <X2>310</X2>
+    <Y2>150</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>210</X1>
+    <Y1>60</Y1>
+    <X2>245</X2>
+    <Y2>60</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>210</X1>
+    <Y1>60</Y1>
+    <X2>210</X2>
+    <Y2>100</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>245</X1>
+    <Y1>60</Y1>
+    <X2>260</X2>
+    <Y2>100</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>260</X1>
+    <Y1>100</Y1>
+    <X2>210</X2>
+    <Y2>100</Y2>
+  </Line>
+  <Rectangle>
+    <Color Web="Red" />
+    <X>310</X>
+    <Y>140</Y>
+    <Width>10</Width>
+    <Height>10</Height>
+  </Rectangle>
+  <Line>
+    <Color Web="Red" />
+    <X1>290</X1>
+    <Y1>115</Y1>
+    <X2>300</X2>
+    <Y2>115</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>290</X1>
+    <Y1>120</Y1>
+    <X2>300</X2>
+    <Y2>120</Y2>
+  </Line>
+  <Line>
+    <Color Web="Red" />
+    <X1>290</X1>
+    <Y1>125</Y1>
+    <X2>300</X2>
+    <Y2>125</Y2>
+  </Line>
+  <Circle>
+    <Color Web="Red" />
+    <Y>130</Y>
+    <X>50</X>
+    <R>50</R>
+  </Circle>
+  <Circle>
+    <Color Web="Red" />
+    <Y>142</Y>
+    <X>62</X>
+    <R>25</R>
+  </Circle>
+  <Circle>
+    <Color Web="Red" />
+    <Y>130</Y>
+    <X>230</X>
+    <R>50</R>
+  </Circle>
+  <Circle>
+    <Color Web="Red" />
+    <Y>142</Y>
+    <X>242</X>
+    <R>25</R>
+  </Circle>
+</Figure>
